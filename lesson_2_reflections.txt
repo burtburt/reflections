@@ -8,4 +8,4 @@ The staging area only contains files that have been added.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-Unknown.
+Only git add the files that contain a logical change.
