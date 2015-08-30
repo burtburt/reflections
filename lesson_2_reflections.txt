@@ -20,3 +20,7 @@ Gives you an idea of place in space.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 everything is merged. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    pros: should work for most things. 
+    cons: could introduce side effects
