@@ -1,7 +1,8 @@
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-
--there might be changes that you don't want to work with at the time.
+    -there might be changes that you don't want to work with at the time.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+    -Clone is a copy that if you push changes to will modify the origin repo. Fork creates a new origin repo, branch is a version of a repo. 
 
--Clone is a copy that if you push changes to will modify the origin repo. Fork creates a new origin repo, branch is a version of a repo. 
+What is the benefit of having a copy of the last known state of the remote stored locally
+    -So you can work offline. 
